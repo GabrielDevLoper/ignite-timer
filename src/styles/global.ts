@@ -18,7 +18,6 @@ body {
 }
 
 body, input, textarea, button {
-    background: #333;
     color: #fff;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
